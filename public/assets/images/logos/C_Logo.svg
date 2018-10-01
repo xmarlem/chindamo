@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="492" height="492" viewBox="0 0 492 492">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: #ff5f5f;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        filter: url(#filter-3);
+      }
+
+      .cls-4 {
+        filter: url(#filter-4);
+      }
+
+      .cls-5 {
+        filter: url(#filter-5);
+      }
+
+      .cls-6 {
+        filter: url(#filter-6);
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        fill: #970000;
+      }
+
+      .cls-7 {
+        filter: url(#filter-7);
+      }
+
+      .cls-8 {
+        filter: url(#filter-8);
+      }
+
+      .cls-9 {
+        filter: url(#filter-9);
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: red;
+      }
+
+      .cls-10 {
+        filter: url(#filter-10);
+      }
+
+      .cls-11 {
+        filter: url(#filter-11);
+      }
+
+      .cls-12 {
+        filter: url(#filter-12);
+      }
+
+      .cls-13 {
+        filter: url(#filter-13);
+      }
+
+      .cls-14 {
+        filter: url(#filter-14);
+      }
+
+      .cls-15, .cls-16 {
+        fill: #ca0000;
+      }
+
+      .cls-15 {
+        filter: url(#filter-15);
+      }
+
+      .cls-16 {
+        filter: url(#filter-16);
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="2.819" dy="1.026" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3.464"/>
+      <feFlood result="flood" flood-opacity="0.35"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="89" y="208" width="83" height="87" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="89" y="244" width="84" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="89" y="282" width="83" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="159" y="282" width="84" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-6" x="159" y="319" width="83" height="87" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-7" x="244" y="319" width="83" height="87" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-8" x="243" y="281" width="83" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-9" x="313" y="281" width="84" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-10" x="89" y="150" width="83" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-11" x="89" y="113" width="83" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-12" x="160" y="111" width="83" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-13" x="160" y="75" width="83" height="87" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-14" x="230" y="74" width="84" height="87" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-15" x="245" y="122" width="84" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-16" x="316" y="121" width="83" height="89" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="C" class="cls-1">
+    <path id="Poligono_1_copia" data-name="Poligono 1 copia" class="cls-2" d="M93.007,248.992l71.458-37.928V286.92Z"/>
+    <path id="Poligono_1_copia_7" data-name="Poligono 1 copia 7" class="cls-3" d="M165.175,285.765L93.717,323.693V247.837Z"/>
+    <path id="Poligono_1_copia_8" data-name="Poligono 1 copia 8" class="cls-4" d="M93.007,323.3l71.458-37.928v75.856Z"/>
+    <path id="Poligono_1_copia_9" data-name="Poligono 1 copia 9" class="cls-5" d="M235.192,323.3l-71.458,37.928V285.376Z"/>
+    <path id="Poligono_1_copia_10" data-name="Poligono 1 copia 10" class="cls-6" d="M163.024,360.078l71.458-37.929v75.857Z"/>
+    <path id="Poligono_1_copia_13" data-name="Poligono 1 copia 13" class="cls-7" d="M319.645,360.078l-71.458,37.928V322.149Z"/>
+    <path id="Poligono_1_copia_14" data-name="Poligono 1 copia 14" class="cls-8" d="M247.477,322.538l71.458-37.928v75.856Z"/>
+    <path id="Poligono_1_copia_15" data-name="Poligono 1 copia 15" class="cls-9" d="M389.384,322.538l-71.458,37.928V284.61Z"/>
+    <path id="Poligono_1" data-name="Poligono 1" class="cls-10" d="M164.679,191.181L93.447,229.049V153.313Z"/>
+    <path id="Poligono_1_copia_2" data-name="Poligono 1 copia 2" class="cls-11" d="M93.007,154.228L164.465,116.3v75.856Z"/>
+    <path id="Poligono_1_copia_3" data-name="Poligono 1 copia 3" class="cls-12" d="M235.914,152.462L164.456,190.39V114.534Z"/>
+    <path id="Poligono_1_copia_4" data-name="Poligono 1 copia 4" class="cls-13" d="M164.467,115.922l71.458-37.928v75.857Z"/>
+    <path id="Poligono_1_copia_5" data-name="Poligono 1 copia 5" class="cls-14" d="M306.374,114.922l-71.458,37.929V76.994Z"/>
+    <path id="Poligono_1_copia_11" data-name="Poligono 1 copia 11" class="cls-15" d="M249.808,163.187l71.458-37.928v75.856Z"/>
+    <path id="Poligono_1_copia_12" data-name="Poligono 1 copia 12" class="cls-16" d="M391.993,162.8l-71.458,38.311V124.493Z"/>
+  </g>
+</svg>
