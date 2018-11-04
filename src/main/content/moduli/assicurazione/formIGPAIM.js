@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {TextField, Button, MenuItem} from '@material-ui/core';
+import {TextField, Button, MenuItem, Checkbox} from '@material-ui/core';
 import {FuseAnimate} from '@fuse';
 import _ from '@lodash';
 
@@ -103,6 +103,10 @@ class FormIGPAIM extends Component {
                     fullWidth
                 />
 
+                <Checkbox
+                    checked={true}
+                    value="aaaa"
+                />
 
                 <FuseAnimate animation="transition.slideRightIn" delay={300}>
                     <Button

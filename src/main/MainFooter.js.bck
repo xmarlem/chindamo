@@ -1,0 +1,52 @@
+<div className="flex flex-1 flex-wrap px-4 items-center whitespace-no-wrap">
+    <div className="flex flex-1 sm:block bg-blue mb-4">
+        <div>
+            <Typography variant="caption">Servizi: </Typography>
+        </div>
+        <div className="px-8">
+            <p>Assicurazioni</p>
+            <p>Casse Malati</p>
+            <p>Crediti</p>
+        </div>
+        <div className="px-8">
+            <p className="flex-none">Compilazione Tasse</p>
+            <p>Investimenti</p>
+            <p>Servizi vari</p>
+        </div>
+    </div>
+    <div className="flex-1 sm:block bg-pink mb-4">
+        <div className="flex flex-1 px-8">
+            <div>
+                <Icon className="list-item-icon flex-no-shrink" color="action">location_on</Icon>
+            </div>
+            <div className="pr-8">
+                <p className="flex-no-shrink">Tösstalstrasse 234</p>
+                <p className="flex-none">8405 Winterthur</p>
+            </div>
+            <div>
+                <div className="flex">
+                    <Icon className="list-item-icon text-16 flex-no-shrink" color="action">phone_iphone</Icon>
+                    <div className="flex-none">076 324 33 20</div>
+                </div>
+                <div className="flex">
+                    <Icon className="list-item-icon text-16 flex-no-shrink" color="action">local_phone</Icon>
+                    <div className="flex-none">052 223 01 01</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div className="flex-1 sm:block bg-green mb-4">
+        <div className="flex">
+            <Icon className="list-item-icon text-16 flex-no-shrink pr-20" color="action">print</Icon>
+            <div>058 285 57 79</div>
+        </div>
+        <div className="flex">
+            <Icon className="list-item-icon text-16 flex-no-shrink pr-20" color="action">email</Icon>
+            <div>domenico.chindamo@baloise.com</div>
+        </div>
+    </div>
+    <div className="sm:block  bg-red mb-4">
+        TEST
+    </div>
+
+</div>

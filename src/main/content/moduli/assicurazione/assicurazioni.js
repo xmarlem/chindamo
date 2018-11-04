@@ -127,6 +127,11 @@ class Assicurazioni extends Component {
                             <div> ITEM 2</div>
                         )
                         }
+                        {selectedForm.id === "VTP" &&
+                        (
+                            <div> ITEM 3</div>
+                        )
+                        }
                     </div>
                 }
                 rightSidebarHeader={
@@ -148,6 +153,26 @@ class Assicurazioni extends Component {
                                 <ListItem button onClick={() => this.handleChangeTab("ICPA")}>
                                     <ListItemText
                                         primary="Cose per aziende"
+                                    />
+                                </ListItem>
+                                <ListItem button onClick={() => this.handleChangeTab("VTP")}>
+                                    <ListItemText
+                                        primary="Vita e terzo pilastro"
+                                    />
+                                </ListItem>
+                                <ListItem button onClick={() => this.handleChangeTab("CASA")}>
+                                    <ListItemText
+                                        primary="Casa"
+                                    />
+                                </ListItem>
+                                <ListItem button onClick={() => this.handleChangeTab("AUTO")}>
+                                    <ListItemText
+                                        primary="Auto"
+                                    />
+                                </ListItem>
+                                <ListItem button onClick={() => this.handleChangeTab("MAL")}>
+                                    <ListItemText
+                                        primary="Malattia"
                                     />
                                 </ListItem>
                             </List>
